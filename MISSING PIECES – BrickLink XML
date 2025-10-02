@@ -4,7 +4,7 @@
     <ITEMTYPE>P</ITEMTYPE>
     <ITEMID>87087</ITEMID>
     <COLOR>86</COLOR> <!-- Light Bluish Gray -->
-    <QTY>60</QTY>
+    <MINQTY>60</MINQTY>
     <CONDITION>N</CONDITION>
   </ITEM>
 
@@ -13,7 +13,7 @@
     <ITEMTYPE>P</ITEMTYPE>
     <ITEMID>60601</ITEMID>
     <COLOR>15</COLOR> <!-- Trans-Black -->
-    <QTY>45</QTY>
+    <MINQTY>45</MINQTY>
     <CONDITION>N</CONDITION>
   </ITEM>
 
@@ -22,7 +22,7 @@
     <ITEMTYPE>P</ITEMTYPE>
     <ITEMID>3070</ITEMID>
     <COLOR>1</COLOR> <!-- White -->
-    <QTY>20</QTY>
+    <MINQTY>20</MINQTY>
     <CONDITION>N</CONDITION>
   </ITEM>
 
@@ -31,7 +31,7 @@
     <ITEMTYPE>P</ITEMTYPE>
     <ITEMID>3069</ITEMID>
     <COLOR>1</COLOR> <!-- White -->
-    <QTY>20</QTY>
+    <MINQTY>20</MINQTY>
     <CONDITION>N</CONDITION>
   </ITEM>
 
@@ -40,7 +40,7 @@
     <ITEMTYPE>P</ITEMTYPE>
     <ITEMID>63864</ITEMID>
     <COLOR>1</COLOR> <!-- White -->
-    <QTY>6</QTY>
+    <MINQTY>6</MINQTY>
     <CONDITION>N</CONDITION>
   </ITEM>
 
@@ -49,7 +49,7 @@
     <ITEMTYPE>P</ITEMTYPE>
     <ITEMID>2431</ITEMID>
     <COLOR>1</COLOR> <!-- White -->
-    <QTY>4</QTY>
+    <MINQTY>4</MINQTY>
     <CONDITION>N</CONDITION>
   </ITEM>
 
@@ -58,7 +58,7 @@
     <ITEMTYPE>P</ITEMTYPE>
     <ITEMID>3794b</ITEMID>
     <COLOR>86</COLOR> <!-- Light Bluish Gray -->
-    <QTY>8</QTY>
+    <MINQTY>8</MINQTY>
     <CONDITION>N</CONDITION>
   </ITEM>
 
@@ -67,7 +67,7 @@
     <ITEMTYPE>P</ITEMTYPE>
     <ITEMID>4740</ITEMID>
     <COLOR>86</COLOR> <!-- Light Bluish Gray -->
-    <QTY>2</QTY>
+    <MINQTY>2</MINQTY>
     <CONDITION>N</CONDITION>
   </ITEM>
 
@@ -76,7 +76,7 @@
     <ITEMTYPE>P</ITEMTYPE>
     <ITEMID>30374</ITEMID>
     <COLOR>86</COLOR> <!-- Light Bluish Gray -->
-    <QTY>4</QTY>
+    <MINQTY>4</MINQTY>
     <CONDITION>N</CONDITION>
   </ITEM>
 
@@ -85,7 +85,7 @@
     <ITEMTYPE>P</ITEMTYPE>
     <ITEMID>3957</ITEMID>
     <COLOR>86</COLOR> <!-- Light Bluish Gray -->
-    <QTY>1</QTY>
+    <MINQTY>1</MINQTY>
     <CONDITION>N</CONDITION>
   </ITEM>
 
@@ -94,7 +94,7 @@
     <ITEMTYPE>P</ITEMTYPE>
     <ITEMID>4073</ITEMID>
     <COLOR>86</COLOR> <!-- Light Bluish Gray -->
-    <QTY>15</QTY>
+    <MINQTY>15</MINQTY>
     <CONDITION>N</CONDITION>
   </ITEM>
 </INVENTORY>
