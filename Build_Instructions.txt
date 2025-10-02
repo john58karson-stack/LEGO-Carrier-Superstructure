@@ -1,0 +1,83 @@
+LEGO CARRIER SUPERSTRUCTURE – BUILD INSTRUCTIONS (Text Format)
+===============================================================
+
+Scale: 30 inches wide × 55 inches tall (~96 × 176 studs)
+Model: Carrier Island Superstructure (CVN-68 Inspired)
+Difficulty: Intermediate–Advanced
+Estimated Parts: ~800–1000
+
+---------------------------------------------------------------
+MODULE 1 – BASE FOUNDATION (Technic Support Frame)
+---------------------------------------------------------------
+Use Technic bricks and beams to create a sturdy rectangular skeleton base.
+Dimensions: 96 × 32 studs
+
+PARTS:
+- Technic Brick 1x16 (#3703) ×12
+- Technic Brick 1x12 (#3894) ×8
+- Technic Axle 6 (#3705) ×10
+- Technic Frame 5x7 (#64179) ×4
+- Connector Pegs with Friction (#2780) ×6
+
+LAYOUT:
+1. Stack two 1x16 bricks per side to form outer frame.
+2. Cross-beam supports every 16 studs using 1x12 bricks.
+3. Use Technic frames vertically in center for rigidity.
+4. Lock with axles and pegs.
+
+---------------------------------------------------------------
+MODULE 2 – LOWER WALL SECTIONS
+---------------------------------------------------------------
+Build 3 wall sections using Light Bluish Gray parts.
+
+PARTS:
+- Brick 1x2 (#3004) ×150
+- Plate 1x2 (#3023) ×200
+
+LAYOUT:
+1. Build up 8-brick-high walls on all 4 sides.
+2. Use overlapping brick pattern for strength.
+3. Reinforce corners with Technic bricks where possible.
+
+---------------------------------------------------------------
+MODULE 3 – BRIDGE & CONTROL TOWER
+---------------------------------------------------------------
+Shape the iconic carrier bridge using SNOT techniques.
+
+PARTS:
+- SNOT Brick 1x1 w/ Stud on Side (#87087) ×60
+- Window Slit 1x2x2 (#60601) ×45
+
+LAYOUT:
+1. Stack 3 SNOT bricks vertically, then add windows on side.
+2. Build front and side bridge walls using windows.
+3. Roof plate using standard plates (not listed).
+
+---------------------------------------------------------------
+MODULE 4 – HULL NUMBER “68”
+---------------------------------------------------------------
+Use vertical SNOT bricks + white plates to build the “68” on the side.
+
+TECHNIQUE:
+1. Place vertical SNOT bricks (studs facing out).
+2. Attach white 1x1 and 1x2 tiles to form digits.
+3. Mount entire number assembly to tower side.
+
+---------------------------------------------------------------
+MODULE 5 – RADAR & ANTENNAS
+---------------------------------------------------------------
+Use bars, clips, and Technic pins to build radar dishes and masts.
+
+SUGGESTED PIECES (not listed in XML):
+- Bar 4L or 6L with stop ring
+- Clip plate or clip tile
+- Round 2x2 plate or dish for radar
+
+---------------------------------------------------------------
+TIPS:
+- Reinforce interior with hidden Technic beams if needed.
+- Use BrickLink Studio for custom tweaks.
+- Consider tiling the roof for realism.
+
+---------------------------------------------------------------
+END OF INSTRUCTIONS
