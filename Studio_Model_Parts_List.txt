@@ -1,0 +1,83 @@
+LEGO CARRIER SUPERSTRUCTURE – MODEL OVERVIEW (Stud.io Build Approximation)
+=========================================================================
+
+SCALE: 30" wide × 55" tall (~96 × 176 studs)
+MODEL FILE: Carrier_Superstructure_Build.io (recreated here in text)
+
+-----------------------------------------------------------------
+MODEL STRUCTURE OVERVIEW
+-----------------------------------------------------------------
+
+[CORE MODEL STRUCTURE]
+└── Technic Support Frame
+    ├── 12 × Technic Brick 1x16 (#3703)
+    ├── 8 × Technic Brick 1x12 (#3894)
+    ├── 4 × Technic Frame 5x7 Open Center (#64179)
+    ├── 10 × Technic Axle 6 (#3705)
+    ├── 6 × Friction Pegs (#2780)
+
+[WALL CLADDING + STRUCTURE]
+└── Light Bluish Gray Plates & Bricks
+    ├── 200 × Plate 1x2 (#3023)
+    ├── 150 × Brick 1x2 (#3004)
+
+[WINDOW MODULES]
+└── Carrier Bridge Windows
+    ├── 45 × Slit Window 1x2x2 (#60601)
+    └── 60 × SNOT Brick 1x1 with Stud on Side (#87087)
+
+[SNOT LETTERING – HULL NUMBER “68”]
+└── Studs Not On Top (vertical build)
+    ├── SNOT bricks in gray (#87087)
+    └── White 1x1 and 1x2 tiles (not listed in XML – choose your font layout)
+
+[RADAR + MAST]
+└── Top module with rotating dish
+    ├── Technic Turntable (#4624645 or #61485)
+    ├── Plates, bars, clips, round 2x2 dish (for radar look)
+    ├── Optional: add PF M-Motor mount + IR receiver slot
+
+-----------------------------------------------------------------
+SUBMODELS USED IN STUD.IO FILE
+-----------------------------------------------------------------
+
+1️⃣ **Base_Frame**  
+   → 96 × 32 stud rectangular Technic beam grid  
+   → Internal cross supports every 16 studs  
+   → Reinforced with open Technic frames  
+
+2️⃣ **Wall_Sections**  
+   → Repetitive 1x2 bricks stacked to form 10-brick-tall walls  
+   → Attached via Technic pin holes to frame  
+
+3️⃣ **Bridge_Tower**  
+   → SNOT structure + windows  
+   → Sloped roof with wedge plates (user customizable)
+
+4️⃣ **Hull_Number_68**  
+   → Assembled using vertical SNOT bricks + white tiles  
+   → Attached to side wall using jumper plates or brackets
+
+5️⃣ **Radar_Top**  
+   → Turntable base  
+   → Bar elements for mast  
+   → Round dish with radar decal (optional)
+
+-----------------------------------------------------------------
+FILE NOTES
+-----------------------------------------------------------------
+- This model is NOT scale-accurate to minifigs but visually proportional
+- Designed to be modular: each section can detach from base
+- Compatible with LED and motor integration (see `Power_Functions_Guide.txt`)
+
+-----------------------------------------------------------------
+RECOMMENDED SOFTWARE
+-----------------------------------------------------------------
+📦 View/edit this model in LEGO BrickLink Studio (.io format):
+→ https://www.bricklink.com/v3/studio/download.page
+
+📦 Convert this layout into parts list via:  
+→ https://rebrickable.com/designer/
+
+-----------------------------------------------------------------
+END OF MODEL OVERVIEW
