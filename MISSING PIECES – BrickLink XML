@@ -20,7 +20,7 @@
   <!-- Tile 1x1 White -->
   <ITEM>
     <ITEMTYPE>P</ITEMTYPE>
-    <ITEMID>3070b</ITEMID>
+    <ITEMID>3070</ITEMID>
     <COLOR>1</COLOR> <!-- White -->
     <QTY>20</QTY>
     <CONDITION>N</CONDITION>
@@ -29,7 +29,7 @@
   <!-- Tile 1x2 White -->
   <ITEM>
     <ITEMTYPE>P</ITEMTYPE>
-    <ITEMID>3069b</ITEMID>
+    <ITEMID>3069</ITEMID>
     <COLOR>1</COLOR> <!-- White -->
     <QTY>20</QTY>
     <CONDITION>N</CONDITION>
