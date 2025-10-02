@@ -1,0 +1,78 @@
+LEGO CARRIER SUPERSTRUCTURE – POWER FUNCTIONS & LIGHTING GUIDE
+================================================================
+
+OBJECTIVE:
+Add light, motion, and realism to your 30"x55" LEGO aircraft carrier superstructure using LEGO Power Functions or PoweredUp components.
+
+---------------------------------------------------------------
+OPTIONAL POWER MODULES
+---------------------------------------------------------------
+
+1️⃣ BRIDGE LIGHTING
+-------------------
+🧱 PARTS:
+- LEGO Power Functions LED Light Set (Part #8870)
+- Extension cable (Part #8871)
+- 1× Battery Box (AAA or Rechargeable Li-Ion)
+
+📦 INSTALL:
+- Drill LED through front-facing bridge windows (use #60601 slit windows)
+- Run cables inside tower to battery box in rear lower cavity
+- Use trans-clear 1x1 round plates over light if needed
+
+2️⃣ ROTATING RADAR ARRAY
+-------------------------
+🧱 PARTS:
+- Power Functions M-Motor (Part #8883)
+- Technic Turntable (Part #4624645 or #61485)
+- Axles, pins, and bushings
+- IR Receiver (#8884) and Remote (#8885) – optional
+
+📦 INSTALL:
+- Mount Technic Turntable base on top of control tower
+- Connect radar dish to vertical axle through center of turntable
+- Gear-reduce motor output for slow realistic rotation
+- Optional: place IR receiver behind radar for remote activation
+
+3️⃣ DECK FLOODLIGHTS (Custom DIY)
+----------------------------------
+🧱 PARTS:
+- Non-LEGO micro LEDs
+- Powered via USB or CR2032 coin cell
+- Mounted behind trans-yellow round 1x1 plates
+
+📦 INSTALL:
+- Embed LEDs behind light brackets on outer tower or walkways
+- Route micro wiring inside hollow wall cavities
+
+---------------------------------------------------------------
+BATTERY BOX LOCATION
+---------------------------------------------------------------
+📦 OPTIONS:
+- Lower rear chamber in base frame
+- Inside side wall with removable access panel
+- Under removable roof tile section
+
+Use the AAA box for compactness; Li-Ion for more runtime.
+
+---------------------------------------------------------------
+WIRING TIPS
+---------------------------------------------------------------
+- Use extension cables to reduce tension
+- Secure wires with LEGO clips or Technic pins (no sharp bends)
+- Test circuits before final brick placement
+
+---------------------------------------------------------------
+SWITCH VS. REMOTE CONTROL
+---------------------------------------------------------------
+✅ Manual switch = simple, no hassle
+✅ IR remote = remote start/stop
+✅ PoweredUp hub = Bluetooth app control (mobile device)
+
+---------------------------------------------------------------
+NOTES:
+- Power Functions discontinued but widely available via BrickLink
+- PoweredUp is newer, but bulkier and app-dependent
+
+---------------------------------------------------------------
+END OF POWER FUNCTIONS GUIDE
