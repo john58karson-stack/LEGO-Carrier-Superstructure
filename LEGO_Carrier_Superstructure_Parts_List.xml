@@ -1,60 +1,65 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE BrickStoreXML>
-<BrickStoreXML>
-  <WantedList>
-    <Item>
+<INVENTORY>
+  <ITEM>
+    <ITEMTYPE>P</ITEMTYPE>
       <ItemID>3703</ItemID>
       <Color>86</Color>
-      <Qty>12</Qty>
-      <Condition>New</Condition>
-    </Item>
-    <Item>
+      <MINQTY>12</MINQTY>
+      <Condition>N</Condition>
+  </Item>
+  <Item>
+    <ITEMTYPE>P</ITEMTYPE>
       <ItemID>3894</ItemID>
       <Color>86</Color>
-      <Qty>8</Qty>
-      <Condition>New</Condition>
-    </Item>
-    <Item>
+      <MINQTY>8</MINQTY>
+      <Condition>N</Condition>
+  </Item>
+  <Item>
+    <ITEMTYPE>P</ITEMTYPE>
       <ItemID>3705</ItemID>
       <Color>11</Color>
-      <Qty>10</Qty>
-      <Condition>New</Condition>
-    </Item>
-    <Item>
+      <MINQTY>10</MINQTY>
+      <Condition>N</Condition>
+  </Item>
+  <Item>
+    <ITEMTYPE>P</ITEMTYPE>
       <ItemID>64179</ItemID>
       <Color>86</Color>
-      <Qty>4</Qty>
-      <Condition>New</Condition>
-    </Item>
-    <Item>
+      <MINQTY>4</MINQTY>
+      <Condition>N</Condition>
+  </Item>
+  <Item>
+    <ITEMTYPE>P</ITEMTYPE>
       <ItemID>2780</ItemID>
       <Color>11</Color>
-      <Qty>6</Qty>
-      <Condition>New</Condition>
-    </Item>
-    <Item>
+      <MINQTY>6</MINQTY>
+      <Condition>N</Condition>
+  </Item>
+  <Item>
+    <ITEMTYPE>P</ITEMTYPE>
       <ItemID>3023</ItemID>
       <Color>86</Color>
-      <Qty>200</Qty>
+      <MINQTY>200</MINQTY>
       <Condition>New</Condition>
-    </Item>
-    <Item>
+  </Item>
+  <Item>
+    <ITEMTYPE>P</ITEMTYPE>
       <ItemID>3004</ItemID>
       <Color>86</Color>
-      <Qty>150</Qty>
-      <Condition>New</Condition>
-    </Item>
-    <Item>
+      <MINQTY>150</MINQTY>
+      <Condition>N</Condition>
+  </Item>
+  <Item>
+    <ITEMTYPE>P</ITEMTYPE>
       <ItemID>87087</ItemID>
       <Color>86</Color>
-      <Qty>60</Qty>
-      <Condition>New</Condition>
-    </Item>
-    <Item>
+      <MINQTY>60</MINQTY>
+      <Condition>N</Condition>
+  </Item>
+  <Item>
+    <ITEMTYPE>P</ITEMTYPE>
       <ItemID>60601</ItemID>
       <Color>86</Color>
-      <Qty>45</Qty>
-      <Condition>New</Condition>
-    </Item>
-  </WantedList>
-</BrickStoreXML>
+      <MINQTY>45</MINQTY>
+      <Condition>N</Condition>
+  </Item>
+</INVENTORY>
