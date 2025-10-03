@@ -1,1 +1,112 @@
+LEGO CARRIER SUPERSTRUCTURE – BUILD INSTRUCTIONS
+================================================
+Scale: 30" wide × 55" tall (approx. 96 × 176 studs)
+Parts: ~1,000 (see BrickLink XML)
+Version: Final Sync – XML v2
+------------------------------------------------
+
+SECTION INDEX:
+1. STRUCTURE FRAME
+2. WALLS
+3. ROOF + DECK
+4. TOWER + BRIDGE
+5. ACCESSORIES + DETAILING
+
+------------------------------------------------
+1. STRUCTURE FRAME
+------------------------------------------------
+📦 Parts Used:
+- Technic Brick 1×16 (3703) – 16x
+- Technic Brick 1×12 (3894) – 12x
+- Technic Frame 5×7 (64179) – 6x
+- Technic Axle 6 (3705) – 12x
+- Technic Pin w/ Friction (2780) – 10x
+
+🛠️ Assembly:
+- Build base frame using 1x16 and 1x12 Technic bricks
+- Reinforce with 5x7 Technic frames as vertical struts
+- Use axles + pins for bracing; lock the grid every 8 studs
+- Leave open section in rear for battery pack if using Power Functions
+
+------------------------------------------------
+2. WALLS
+------------------------------------------------
+📦 Parts Used:
+- Brick 1×2 (3004) – 180x
+- Brick 1×4 (3010) – 80x
+- Brick 1×8 (3008) – 60x
+- Plate 1×2 (3023) – 220x
+
+🛠️ Assembly:
+- Build walls in layered rows (1×8 on base, alternating w/ 1×2 + 1×4)
+- Inner cavity allows for future wiring or detailing
+- Use plates every 6–8 bricks for horizontal reinforcement
+- Total wall height ≈ 40 bricks (approx. 15" height)
+
+------------------------------------------------
+3. ROOF + DECK
+------------------------------------------------
+📦 Parts Used:
+- Plate 2×4 (3020) – 40x
+- Plate 2×6 (3795) – 24x
+- Plate 4×8 (3035) – 10x
+- Tile 1×6 (6636) – 20x
+- Tile 1×4 (2431) – 20x
+
+🛠️ Assembly:
+- Cover frame with overlapping plates to form flat roof
+- Use 4×8 plates centered for rigidity
+- Top with tiles for clean finish (especially front-facing deck edge)
+
+------------------------------------------------
+4. TOWER + BRIDGE
+------------------------------------------------
+📦 Parts Used:
+- SNOT Brick 1×1 w/ Stud (87087) – 60x
+- Window Slit 1×2×2 (60601) – 45x
+- Jumper Plate 1×2 (3794b) – 12x
+
+🛠️ Assembly:
+- Create SNOT wall using 87087 bricks to face outward
+- Insert windows using modified bricks at 2-brick intervals
+- Use jumper plates for offset connection of radar or numbers
+
+------------------------------------------------
+5. ACCESSORIES + DETAILING
+------------------------------------------------
+📦 Parts Used:
+• Hull Number "68"
+  - Tile 1×1 White (3070) – 25x
+  - Tile 1×2 White (3069) – 25x
+  - Tile 1×3 White (63864) – 10x
+  - Tile 1×4 White (2431) – 6x
+
+• Radar + Sensors
+  - Dish 2×2 (4740) – 2x
+  - Bar 4L (30374) – 4x
+  - Antenna 8H (3957) – 1x
+  - Plate Round 1x1 (4073) – 15x
+
+🛠️ Hull Number:
+- Mount using SNOT bricks along the side of the tower
+- Arrange tiles in “6” and “8” using 1x1 and 1x2s in stacked layout
+
+🛠️ Radar:
+- Attach dish to Technic turntable (not included in this file)
+- Use bar elements and round plates as rotating radars
+- Position radar and mast on centerline roof of tower
+
+------------------------------------------------
+OPTIONAL:
+------------------------------------------------
+Power Functions Add-On Guide available separately:
+- LED bridge lights
+- Rotating radar motor
+- IR/Bluetooth remote or switch
+
+------------------------------------------------
+END OF BUILD INSTRUCTIONS
+Version: Final Sync with XML (v2)
+Issued: ✅ [BrickLink XML Upload-Ready]
+By: LEGOVisionary
 
