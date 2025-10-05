@@ -1,0 +1,67 @@
+==================================================
+PHASE 2 – WALLS
+==================================================
+OBJECTIVE: Build strong exterior walls with interior reinforcement, spanning baseplate area.
+
+APPROX WALL HEIGHT: ~40 bricks (≈15")
+
+REQUIRED PARTS:
+• 3004 – Brick 1×2 (x180)
+• 3010 – Brick 1×4 (x80)
+• 3008 – Brick 1×8 (x60)
+• 3023 – Plate 1×2 (x220)
+
+--------------------------------------------------
+STEP-BY-STEP INSTRUCTIONS
+--------------------------------------------------
+
+STEP 1: ESTABLISH FIRST LAYER AROUND FRAME  
+Use (12) Brick 1×8 (3008)  
+- Begin along the edge of the Technic frame  
+- Lay bricks in a full rectangular outline, flush with Technic brick ends  
+- Ensure all bricks are fully seated on studs of the Technic base
+
+STEP 2: INTERLOCK WITH SECOND LAYER  
+Use mix of:
+- (8) Brick 1×4 (3010)
+- (10) Brick 1×2 (3004)
+
+- Stagger all seams for interlock (like masonry)  
+- Avoid vertical joints stacking directly over one another
+
+STEP 3: REPEAT LAYERS TO HEIGHT 10  
+- Continue alternating 1×2, 1×4, and 1×8 bricks  
+- Every 4 layers, place a row of Plate 1×2 (3023) across the interior wall face  
+  - Purpose: act as tension layers & connection plates  
+  - Helps bind future sub-assemblies (tower, roof, etc.)
+
+EXAMPLE PATTERN FOR EACH 4-LAYER MODULE:
+- Layer 1: 1×8 perimeter
+- Layer 2: 1×4 and 1×2 mix, offset
+- Layer 3: repeat Layer 1
+- Layer 4: 1×2 plates (horizontal), covering interior gaps
+
+STEP 4: REPEAT MODULE UNTIL HEIGHT 40  
+- You will build 10 total 4-layer modules  
+- Total bricks used will approach:
+  - ~60 1×8 bricks
+  - ~80 1×4 bricks
+  - ~180 1×2 bricks
+  - ~220 1×2 plates
+
+STEP 5: ADD STIFFENING BRICKS INSIDE CORNERS  
+(Optional but recommended)  
+- Insert 1×4 bricks inside all four corners every 6 bricks vertically  
+- Purpose: increase torsional rigidity of the structure
+
+FINAL CHECK:
+✅ Walls rise to full height (~15")  
+✅ All vertical seams staggered  
+✅ Plates added every 4 layers  
+✅ Connects flush with Technic frame base  
+✅ Inside ready to receive Tower/Bridge assembly
+
+==================================================
+END OF PHASE 2 – WALLS COMPLETE
+Next Phase: ROOF + DECK
+==================================================
