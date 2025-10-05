@@ -1,0 +1,63 @@
+==================================================
+PHASE 1 – STRUCTURE FRAME
+==================================================
+OBJECTIVE: Build a sturdy Technic-based skeleton to support tower walls, roof, and future detailing.
+
+SCALE: Covers approx. 48 × 16 studs (center base of model)
+
+REQUIRED PARTS:
+• 3703 – Technic Brick 1x16 (x16)
+• 3894 – Technic Brick 1x12 (x12)
+• 64179 – Technic Frame 5x7 Open Center (x6)
+• 3705 – Axle 6L (x12)
+• 2780 – Technic Friction Pin (x10)
+
+--------------------------------------------------
+STEP-BY-STEP INSTRUCTIONS
+--------------------------------------------------
+
+STEP 1: CREATE LONGITUDINAL BEAMS  
+Use (2) Technic Brick 1×16 (3703)  
+- Lay them parallel, 16 studs apart  
+- This forms the *spine* of the frame  
+- Align with stud grid: start one at Row 1, the other at Row 17 (assuming standard baseplate grid)
+
+STEP 2: ADD CROSS-BRACES  
+Use (4) Technic Brick 1×12 (3894)  
+- Connect the two spine bricks with 1×12s, spaced evenly  
+  - Suggested cross points at Stud 0, 6, 12, and 18  
+- Snap in at pin holes, not just on studs — this will carry vertical loads
+
+STEP 3: INSTALL STRUCTURAL STRUTS  
+Use (3) Technic Frame 5×7 (64179)  
+- Position one frame dead center across the beams  
+- Place others near front and rear  
+- Frames should mount over pin connections, not float  
+- Orient open sides vertically to allow interior support posts later
+
+STEP 4: LOCK AXLE GRID  
+Use (6) Axle 6L (3705)  
+- Insert axles horizontally between Technic bricks, threading through pin holes  
+- Place at positions: Rows 3, 8, and 13 (two axles per row, left/right side)  
+- This reinforces lateral strength
+
+STEP 5: INSERT FRICTION PINS  
+Use (10) Technic Pin with Friction (2780)  
+- Insert pins into *unused* Technic holes around each junction (approx. 2–3 pins per 5×7 frame)  
+- This will stabilize the core under vertical compression
+
+STEP 6: STACK UPPER LAYER  
+Repeat Steps 1–4 one level higher using remaining Technic Bricks  
+- Create a **second identical rectangle** atop the first  
+- Offset joints if possible (e.g. don’t place 1×12 over 1×12 seam)  
+- Secure with additional axles or pins as needed
+
+FINAL CHECK:
+✅ Frame must be square  
+✅ Should withstand slight twisting by hand without flexing  
+✅ If you're planning electronics later (lights or motors), leave an opening near the rear crossbeam
+
+==================================================
+END OF PHASE 1 – STRUCTURE FRAME COMPLETE
+Next Phase: WALLS
+==================================================
